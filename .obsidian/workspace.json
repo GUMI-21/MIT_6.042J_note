@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "b251b3ed0d473ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad16293db931ffbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c40b65c0272eea0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LEC1 Introduction and Proofs.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LEC1 Introduction and Proofs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdda6ed6642ebe7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a025a307501ffc33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a34fb51fa315a89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cb1a8ff7f389e7b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "66a13666d68c1db2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0753206547f14c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f04e16394b41a8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c615be4036de74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LEC1 Introduction and Proofs.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "LEC1 Introduction and Proofs 的反向链接列表"
+            }
+          },
+          {
+            "id": "068bd4b5650dd545",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LEC1 Introduction and Proofs.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LEC1 Introduction and Proofs 的出链列表"
+            }
+          },
+          {
+            "id": "a57c974f558aa7e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a7f6c2df6b058315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LEC1 Introduction and Proofs.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LEC1 Introduction and Proofs 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9c40b65c0272eea0",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "未命名.md",
+    "LEC1 Introduction and Proofs.pdf",
+    "未命名",
+    "LEC3 Strong Induction.pdf",
+    "LEC2 Induction.pdf",
+    "README.md"
+  ]
+}
